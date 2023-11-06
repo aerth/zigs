@@ -1,0 +1,11 @@
+.{
+    .name = "zigs",
+    .version = "0.0.1",
+    .paths = .{
+        "LICENSE.md",
+        "README.md",
+        "build.zig",
+        "lib",
+        "cmds",
+    },
+}
