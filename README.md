@@ -19,7 +19,7 @@ In the `build.zig.zon` file, add the following to the dependencies object.
 
 ```zig
 .zigs = .{
-    .url = "https://github.com/aerth/zigs/archive/b558fa51b28304101917fdfc6728735f4b426eda.tar.gz",
+    .url = "https://github.com/aerth/zigs/archive/b509b1d11066365796bedbd0d86c7822b1a45203.tar.gz",
 }
 ```
 
