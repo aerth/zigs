@@ -1,3 +1,5 @@
+// this file describes the remote dependencies
+//  (currently none)
 .{
     .name = "zigs",
     .version = "0.0.1",

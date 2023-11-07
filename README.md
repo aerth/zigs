@@ -1,14 +1,5 @@
 # some zigs
 
-### compiling
-
-run `zig build`
-
-look in the `zig-out` directory (change install dir with -p flag)
-
-try `make example`
-
-
 ### usage
 
 ## Integrating Zigs in your Project
