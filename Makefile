@@ -69,6 +69,6 @@ bin/test-hash-c-shared: testing/library-test-hash.c
 	${CC} ${CFLAGS} -ggdb -I. $^ -o $@ ./zig-out/lib/libzigs.so -O3 -Doptimize=${optimize} ${LDFLAGS} -lc 
 
 clean:
-	rm -rf bin zig-out */*.o */*.a */*.so *.a *.o *.so a.out
+	rm -rf bin zig-out */*.o */*.a */*.so *.a *.o *.so a.out library_tester
 clean-all: clean
 	rm -rf zig-cache

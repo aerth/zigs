@@ -1,8 +1,12 @@
+/tmp
 /zig-out
 /zig-cache
+/library_tester
 *.o
 *.so
+*.wasm
+*.a
 *.out
+
 notes.md
-/tmp
-/library_tester
+
